@@ -1,42 +1,36 @@
-# VLAN and Inter-VLAN Routing Lab
+# Hi, I'm Misael
 
-## Objective
+I am an IT student interested in network technician and network
+engineering positions.
 
-Configure separate VLANs and allow communication between them
-through a router.
+## Current Focus
 
-## Equipment
+- Studying for the Cisco CCNA
+- Building networks in Cisco Packet Tracer
+- Learning routing, switching, VLANs, and network security
+- Practicing network installation and troubleshooting
 
-- One Cisco router
-- Two Cisco switches
-- Four computers
+## Technical Skills
+
+- IPv4 and IPv6 addressing
+- Subnetting
+- VLANs and trunking
+- DHCP and DNS
+- Static routing and OSPF
+- Access control lists
+- Wireless networking
 - Cisco Packet Tracer
+- Basic Linux and Windows administration
 
-## VLANs and Addressing
+## Certifications
 
-| VLAN | Department | Network |
-|---|---|---|
-| 10 | Administration | 192.168.10.0/24 |
-| 20 | Support | 192.168.20.0/24 |
+- CompTIA Security+
+- Cisco CCNA — In Progress
 
-## Configuration
+## Projects
 
-Commands used to create the VLANs, configure trunk ports,
-and enable inter-VLAN routing.
-
-## Verification
-
-- `show vlan brief`
-- `show interfaces trunk`
-- `show ip interface brief`
-- `ping`
-
-## Problems Encountered
-
-The computers initially could not communicate because the switch
-port was assigned to the wrong VLAN.
-
-## What I Learned
-
-I learned how access ports, trunk ports, and router subinterfaces
-work together.
+- VLAN and Inter-VLAN Routing Lab
+- Small Business Network Design
+- OSPF Routing Lab
+- Home Network Security Project
+- Network Troubleshooting Documentation
